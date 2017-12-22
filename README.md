@@ -15,7 +15,7 @@
    ![super_mario_map1](https://user-images.githubusercontent.com/22703561/34296978-0ad9a6f4-e71e-11e7-9a63-9ed1eadeaac9.png).
    ![super_mario_map2](https://user-images.githubusercontent.com/22703561/34296979-0af81f08-e71e-11e7-801b-2e414837bc72.png).
   
-  ## Ηρωας
+## Ηρωας
    1. Αλλαξα την εμφάνιση του παίκτη μου με το παρακάτω spriteSheet * ![playerpurple](https://user-images.githubusercontent.com/22703561/34297275-e5f86292-e71f-11e7-9fdb-a67157174a6a.png).
    2. Προσθήκη ηχων για τον παίκτη . Οταν παίρνει κέρμα,αλμα,χτυπήσει goomba στο κεφάλι.
    3. Ο πάικτης ξεκινάει με 5 καρδίες και μπορεί να πάρει το πολλύ 7.
