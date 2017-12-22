@@ -10,14 +10,23 @@
  3. Βιβλιοθήκη Phaser
  4. Αλλό λογισμικό: Tiled(δημιουργία πίστων)
  
- ## Προσθήκες στο παιχνίδι
+ ## Πίστες
    1. Προσθήκη Πίστας
     * Πρώτη Πίστα
    ![super_mario_map1](https://user-images.githubusercontent.com/22703561/34296978-0ad9a6f4-e71e-11e7-9a63-9ed1eadeaac9.png)
    *  Δεύτερη Πίστα
    ![super_mario_map2](https://user-images.githubusercontent.com/22703561/34296979-0af81f08-e71e-11e7-801b-2e414837bc72.png)
-   2. Αλλαξα την εμφάνιση του παίκτη μου με το παρακάτω spriteSheet
-   * ![playerpurple](https://user-images.githubusercontent.com/22703561/34297275-e5f86292-e71f-11e7-9fdb-a67157174a6a.png)
+  
+  
+  
+  
+  ## Ηρωας
+   1. Αλλαξα την εμφάνιση του παίκτη μου με το παρακάτω spriteSheet * ![playerpurple](https://user-images.githubusercontent.com/22703561/34297275-e5f86292-e71f-11e7-9fdb-a67157174a6a.png)
+   2. Προσθήκη 
+   
+   ## Εχθροί 
+   1. goombas : ![goomba](https://user-images.githubusercontent.com/22703561/34297403-a57c2446-e720-11e7-8d98-dfd4084d4c4d.png)
+    συμπεριφόρα κινούνται προς τα συνέχεια προς τα αριστερά, Οταν ακουμπήσουν τον παίκτη του αφαιρούνε μια ζωή, αμα ακουμπήσει κάποιο     -- εμπόδιο το οποίο μπορεί να είναι είτε εμπόδιο κάαποιος σωλήνας αόρατο εμπόδιο που τοποθετείται για να μην επιτρέψει το goomba να μην μπορεί να φύγει απο κάποιο σημείο.
  
 
 ## link αποθετηρίου κωδικα
