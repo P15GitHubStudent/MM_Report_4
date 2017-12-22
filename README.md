@@ -1,11 +1,14 @@
 # MM_Report_4
 # Μάθημα: Πολυμέσα
-### Ονοματεπώνυμο:Τουλάκης Αλέξανδρος
-### Αριθμός Μητρώου: Π2015067
+
+# Εισαγωγή
+Σε αυτήν την εργασία ανέλαβα την επέκταση, τροποποίηση του Super Mario( αποθετήριο https://github.com/ioniodi/Super-Mario)
+
 ## link αποθετηρίου κωδικα
 https://github.com/P15GitHubStudent/Super-Mario/tree/Par3
 ## link demo παιχνιδιού
 https://p15githubstudent.github.io/Super-Mario
+
 
 ## Links πολυμεσικού περιεχομένου 
 https://opengameart.org/content/kenney-16x16
