@@ -6,9 +6,16 @@
 
 ## Επιλογή Εργαλείων
  1. IDE: Visual Studio Code
- 2. Γλώσσα προγραμματισμού: Javascript,HTML
+ 2. Γλώσσα προγραμματισμού: Javascript
  3. Βιβλιοθήκη Phaser
  4. Αλλό λογισμικό: Tiled(δημιουργία πίστων)
+ 
+ ## Προσθήκες στο παιχνίδι
+   προσθήκη 2 πίστων 
+   ![super_mario_map1](https://user-images.githubusercontent.com/22703561/34296978-0ad9a6f4-e71e-11e7-9a63-9ed1eadeaac9.png)
+   2 πίστα
+   ![super_mario_map2](https://user-images.githubusercontent.com/22703561/34296979-0af81f08-e71e-11e7-801b-2e414837bc72.png)
+
 
 
 ## link αποθετηρίου κωδικα
