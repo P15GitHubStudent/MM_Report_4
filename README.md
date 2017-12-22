@@ -24,10 +24,15 @@
    4. 
    
    ## Κερματα 
-   1. Αλλαξα 
+    1. Αλλαξα την εμφάνιση του κέρματος ![full coins](https://user-images.githubusercontent.com/22703561/34297993-03562816-e724-11e7-9fc9-1e09f8cb1e28.png).
+    2. 
+    
+    
+    ## HUD
+    
    
    ## Φωτιές 
-   1. Αλλαξα την εμφάνιση του κέρματος ![full coins](https://user-images.githubusercontent.com/22703561/34297993-03562816-e724-11e7-9fc9-1e09f8cb1e28.png)
+ 
 
    
    
