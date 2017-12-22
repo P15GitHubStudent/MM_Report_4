@@ -5,10 +5,10 @@
 Σε αυτήν την εργασία ανέλαβα την επέκταση, τροποποίηση του Super Mario. Ο κώδικας μου είχε ως βάση  (https://github.com/ioniodi/Super-Mario) οι αλλαγές που εκανα βασίζονται στα παραδοτεά που περιγράφονται αναλυτικά στο link αυτό https://courses-ionio.github.io/projects/super-mario/
 
 ## Επιλογή Εργαλείων
- IDE: Visual Studio Code
- Γλώσσα προγραμματισμού: Javascript,HTML
- Βιβλιοθήκη Phaser
- Αλλό λογισμικό: Tiled(δημιουργία πίστων)
+ 1. IDE: Visual Studio Code
+ 2. Γλώσσα προγραμματισμού: Javascript,HTML
+ 3. Βιβλιοθήκη Phaser
+ 4. Αλλό λογισμικό: Tiled(δημιουργία πίστων)
 
 
 ## link αποθετηρίου κωδικα
