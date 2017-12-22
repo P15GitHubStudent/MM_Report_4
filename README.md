@@ -2,8 +2,7 @@
 # Μάθημα: Πολυμέσα
 
 # Εισαγωγή
-Σε αυτήν την εργασία ανέλαβα την επέκταση, τροποποίηση του Super Mario( αποθετήριο https://github.com/ioniodi/Super-Mario)
-
+Σε αυτήν την εργασία ανέλαβα την επέκταση, τροποποίηση του Super Mario. Ο κώδικας μου είχε ως βάση  (https://github.com/ioniodi/Super-Mario)
 ## link αποθετηρίου κωδικα
 https://github.com/P15GitHubStudent/Super-Mario/tree/Par3
 ## link demo παιχνιδιού
