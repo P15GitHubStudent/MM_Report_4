@@ -16,8 +16,8 @@
    ![super_mario_map1](https://user-images.githubusercontent.com/22703561/34296978-0ad9a6f4-e71e-11e7-9a63-9ed1eadeaac9.png)
    *  Δεύτερη Πίστα
    ![super_mario_map2](https://user-images.githubusercontent.com/22703561/34296979-0af81f08-e71e-11e7-801b-2e414837bc72.png)
-   2. τεστ 
-    
+   2. Αλλαξα την εμφάνιση του παίκτη μου με το παρακάτω spriteSheet
+   ![playerpurple](https://user-images.githubusercontent.com/22703561/34297275-e5f86292-e71f-11e7-9fdb-a67157174a6a.png)
  
 
 ## link αποθετηρίου κωδικα
