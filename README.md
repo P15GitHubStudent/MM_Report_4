@@ -40,7 +40,7 @@
 ![plantwarning](https://user-images.githubusercontent.com/22703561/33543562-2bd6ff10-d8e0-11e7-8684-dbdc5f940555.png)
 
 
-## Κερματα
+## Κέρματα
  Αλλαγή εμφάνισης κερμάτων ![full coins](https://user-images.githubusercontent.com/22703561/34297993-03562816-e724-11e7-9fc9-1e09f8cb1e28.png).
  
 
@@ -74,14 +74,11 @@
   δεν τον βοηθάει να να τερματίσει την πίστα νωρίτερα.Τελός η παρακάτω πινακίδα υποδηλώνει σε ποιους σωλήνες μπορούν να γίνουν teleports
  ![teleport](https://user-images.githubusercontent.com/22703561/33654964-65ce9958-da7a-11e7-88d6-b649580ba8fd.png)
 
+   ## WonGame
+  ![screenshot_1](https://user-images.githubusercontent.com/22703561/34299643-bc046b0e-e72c-11e7-8523-57882618a597.png)
 
 
-
-
-## WonGame
-
-
-## GameOver 
+  ## GameOver 
 
 
 
