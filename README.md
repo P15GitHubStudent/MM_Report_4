@@ -19,7 +19,7 @@
    1. Αλλαξα την εμφάνιση του παίκτη μου με το παρακάτω spriteSheet * ![playerpurple](https://user-images.githubusercontent.com/22703561/34297275-e5f86292-e71f-11e7-9fdb-a67157174a6a.png).
    2. Προσθήκη ηχων για τον παίκτη . Οταν παίρνει κέρμα,αλμα,χτυπήσει goomba στο κεφάλι.
    3. Ο πάικτης ξεκινάει με 5 καρδίες και μπορεί να πάρει το πολλύ 7.
-   ![lives] (https://userimages.githubusercontent.com/22703561/34297992-00dc1af0-e724-11e7-907a-b1d6cec3e449.png) 
+![lives](https://userimages.githubusercontent.com/22703561/34297992-00dc1af0-e724-11e7-907a-b1d6cec3e449.png) 
    4. κάθε φορά που ο παίκτης χάζει ζωή γίνεται επανεκκίνηση της πίστας. Αμα χάσει ολες του τις ζωές τότε ο πάικτης μεταβαίνει στην       οθόνη του gameOver.
   
     
@@ -36,9 +36,8 @@
 4. Προειδοποιητική πινακίδα που ενημερώνει οτι σε αυτόν τον σωλήνα κρύβεται piranha φυτό  
 ![plantwarning](https://user-images.githubusercontent.com/22703561/33543562-2bd6ff10-d8e0-11e7-8684-dbdc5f940555.png)
 
-
 ## Κέρματα
- Αλλαγή εμφάνισης κερμάτων ![full coins](https://user-images.githubusercontent.com/22703561/34297993-03562816-e724-11e7-9fc9-1e09f8cb1e28.png).
+ Αλλαγή εμφάνισης κερμάτων![full coins](https://user-images.githubusercontent.com/22703561/34297993-03562816-e724-11e7-9fc9-1e09f8cb1e28.png).
  
 
  ## Bonus 
