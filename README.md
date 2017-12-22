@@ -9,8 +9,8 @@
  2. Γλώσσα προγραμματισμού: Javascript
  3. Βιβλιοθήκη Phaser
  4. Αλλό λογισμικό: Tiled(δημιουργία πίστων)
- 
- ## Πίστες
+
+## Πίστες
    1. Προσθήκη Πίστας
     * Πρώτη Πίστα
    ![super_mario_map1](https://user-images.githubusercontent.com/22703561/34296978-0ad9a6f4-e71e-11e7-9a63-9ed1eadeaac9.png).
