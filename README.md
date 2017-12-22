@@ -17,9 +17,6 @@
    *  Δεύτερη Πίστα
    ![super_mario_map2](https://user-images.githubusercontent.com/22703561/34296979-0af81f08-e71e-11e7-801b-2e414837bc72.png)
   
-  
-  
-  
   ## Ηρωας
    1. Αλλαξα την εμφάνιση του παίκτη μου με το παρακάτω spriteSheet * ![playerpurple](https://user-images.githubusercontent.com/22703561/34297275-e5f86292-e71f-11e7-9fdb-a67157174a6a.png)
    2. Προσθήκη 
@@ -34,11 +31,9 @@
 χτυπήσεις στο κεφάλι ούτε με φωτιά.ο παίκτης χάνει ζωή αμα πέσει πάνω του.
  * spritsheet pirana:![piranaplant](https://user-images.githubusercontent.com/22703561/33653633-53b103cc-da76-11e7-8cb3-b9ae8b4009f9.gif)![pipe](https://user-images.githubusercontent.com/22703561/34297761-b992ad36-e722-11e7-90ca-b08e7fd00814.png)
 
-
-## βοηθητικά αντικείμενα για τον εχθρό
-1. προειδοποιητική πινακίδα που ενημερώνει οτι σε αυτόν τον σωλήνα κρύβεται pirana φυτό  
+4. Προειδοποιητική πινακίδα που ενημερώνει οτι σε αυτόν τον σωλήνα κρύβεται pirana φυτό  
 ![plantwarning](https://user-images.githubusercontent.com/22703561/33543562-2bd6ff10-d8e0-11e7-8684-dbdc5f940555.png)
-2. 
+ 
 
 ## link αποθετηρίου κωδικα
 https://github.com/P15GitHubStudent/Super-Mario/tree/Par3
