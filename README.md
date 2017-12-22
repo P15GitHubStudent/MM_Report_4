@@ -25,14 +25,15 @@
    
    ## Κερματα 
     1. Αλλαξα την εμφάνιση του κέρματος ![full coins](https://user-images.githubusercontent.com/22703561/34297993-03562816-e724-11e7-9fc9-1e09f8cb1e28.png).
-    2. 
     
     
     ## HUD
     
    
-   ## Φωτιές 
- 
+   ## Bonus 
+ * Προσθήκη QuestionBox το οποίο αμα το χτύπησει ο παίτης απο την κάτω μεριά βγαίνει μανιταρι
+![questionblock-0](https://user-images.githubusercontent.com/22703561/33657111-ec4129e6-da80-11e7-8dc8-31c2b29d66b0.png)
+![1upmushroom](https://user-images.githubusercontent.com/22703561/33657176-1fcac4de-da81-11e7-9c6f-14de0a84a6f6.png)
 
    
    
