@@ -79,14 +79,20 @@
 
 
   ## GameOver 
+   
+![screenshot_2](https://user-images.githubusercontent.com/22703561/34299726-2d9d6054-e72d-11e7-838b-fe1da1f1b0c4.png)
 
-
+  ## End of game Animation
+ με το πέρας τις πίστας εμφανίζεται η πριγκίπισσα η οποία χαιρέτα τον ηρωά μας πλησιάζει προς το μέρος του το δίνει φιλάκι και κάνει fade την καμερά μας 
+ ![princess](https://user-images.githubusercontent.com/22703561/33654872-26172d5c-da7a-11e7-873c-f57c60ca5508.png)
 
 
 ## link αποθετηρίου κωδικα
 https://github.com/P15GitHubStudent/Super-Mario/tree/Par3
 ## link demo παιχνιδιού
 https://p15githubstudent.github.io/Super-Mario
+
+
 
 
 
