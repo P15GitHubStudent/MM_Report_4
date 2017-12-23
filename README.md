@@ -82,6 +82,10 @@ LoadNextLevelState : οταν ολοκληρωθεί μια πίστα αναλ�
   να κάνει επανεκκίνηση την τρέχουσα πίστα που δεν κατάφερε να ολοκληρώσει.
   ![screenshot_1](https://user-images.githubusercontent.com/22703561/34299643-bc046b0e-e72c-11e7-8523-57882618a597.png)
 
+
+## LoadNextLevelState
+Με το πέρας μια πίστας αναλαμβάνει να φορτώσει την επόμενη πίστας, οταν δεν θα υπάρξει επόμενη πίστα να φορτώσει τότε θα μεταβεί στην WonGame State 
+
 ## link αποθετηρίου κωδικα
 https://github.com/P15GitHubStudent/Super-Mario/tree/Par3
 ## link demo παιχνιδιού
