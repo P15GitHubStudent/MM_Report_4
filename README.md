@@ -15,9 +15,10 @@
 preload state : Αναλαμβάνει να φορτώσει τους πόρους για εμάς οπως εικόνες,spritesheets,ηχους  παράλληλα δείχνει loading bar υποδηλώνοντας οτι φορτώνει πόρους.
 MenuState: οθόνη του αρχικού μενού.
 SelectMapState: κατάσταση υπεύθυνση για την επιλογή της πίστας.
-PlayState:Πίστες,κερματα,Bonus,HUD,ηρωας,εχθροί,τηλεμεταφορά.
-WonGameState: οταν τερματιστεί το παιχνίδι.
-GameOverState: οταν ο παίκτης χάσει ολες τις ζωές του.
+PlayState: δημιουργεί  πίστα Πίστες και τοποθετεί σε αυτήν κερματα,Bonus,HUD,ηρωας,εχθροί,τηλεμεταφορά.
+WonGameState: μετάβαση οταν ο παίκτης ολοκληρώση την τελευταία πίστα.
+GameOverState: μετάβαση οταν ο παίκτης χάσει ολες τις ζωές του.
+LoadNextLevelState : οταν ολοκληρωθεί μια πίστα αναλαμβάνει την φόρτωση 
 
 
 ## PreloaderState
@@ -77,7 +78,7 @@ GameOverState: οταν ο παίκτης χάσει ολες τις ζωές τ
 
 
   ## GameOver 
-   
+ Κατάσταση που μεταβαίνεις 
 ![screenshot_2](https://user-images.githubusercontent.com/22703561/34299726-2d9d6054-e72d-11e7-838b-fe1da1f1b0c4.png)
 
 
@@ -85,10 +86,6 @@ GameOverState: οταν ο παίκτης χάσει ολες τις ζωές τ
 https://github.com/P15GitHubStudent/Super-Mario/tree/Par3
 ## link demo παιχνιδιού
 https://p15githubstudent.github.io/Super-Mario
-
-
-
-
 
 
 ## Links πολυμεσικού περιεχομένου 
