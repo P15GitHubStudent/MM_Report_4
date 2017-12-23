@@ -12,7 +12,7 @@
  
 ## States 
 Καταστάσεις στις οποίες μπορεί να μεταβεί το παιχνίδι μας, οι καταστάσεις αυτές είναι 
-preload state : Αναλαμβάνει να φορτώσει τους πόρους για εμάς οπως εικόνες,spritesheets,ηχους  παράλληλα δείχνει loading bar υποδηλώνοντας οτι φορτώνει πόρους.
+preload state : Αναλαμβάνει να φορτώσει τους πόρους για εμάς οπως εικόνες,spritesheets,ηχους  παράλληλα δείχνει loading bar υποδηλώνοντας οτι φορτώνει πόρους, endofgameAnimation.
 MenuState: οθόνη του αρχικού μενού.
 SelectMapState: κατάσταση υπεύθυνση για την επιλογή της πίστας.
 PlayState: δημιουργεί  πίστα Πίστες και τοποθετεί σε αυτήν κερματα,Bonus,HUD,ηρωας,εχθροί,τηλεμεταφορά.
@@ -74,15 +74,13 @@ LoadNextLevelState : οταν ολοκληρωθεί μια πίστα αναλ�
  ![teleport](https://user-images.githubusercontent.com/22703561/33654964-65ce9958-da7a-11e7-88d6-b649580ba8fd.png)
 
    ## WonGame
+   ![screenshot_2](https://user-images.githubusercontent.com/22703561/34299726-2d9d6054-e72d-11e7-838b-fe1da1f1b0c4.png)
    Οθόνη δείχνει το score που εκανε και του δίνει την δυνατότητα κάνοντας κλικ στο κουμπι να μεταβεί πίσω στο κύριο Menu.
-  ![screenshot_1](https://user-images.githubusercontent.com/22703561/34299643-bc046b0e-e72c-11e7-8523-57882618a597.png)
-
 
   ## GameOver 
   Οθόνη δείχνει το score που κατάφερε, επίσης δίνει την δυνατότητα στο άτομο αυτό να διαλλέξει αμα θα ηθελε να μεταβεί στο κύριο μενού η 
   να κάνει επανεκκίνηση την τρέχουσα πίστα που δεν κατάφερε να ολοκληρώσει.
-![screenshot_2](https://user-images.githubusercontent.com/22703561/34299726-2d9d6054-e72d-11e7-838b-fe1da1f1b0c4.png)
-
+  ![screenshot_1](https://user-images.githubusercontent.com/22703561/34299643-bc046b0e-e72c-11e7-8523-57882618a597.png)
 
 ## link αποθετηρίου κωδικα
 https://github.com/P15GitHubStudent/Super-Mario/tree/Par3
