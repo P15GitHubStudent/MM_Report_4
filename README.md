@@ -55,7 +55,7 @@
 ### Κέρματα
  Αλλαγή εμφάνισης κερμάτων![full coins](https://user-images.githubusercontent.com/22703561/34297993-03562816-e724-11e7-9fc9-1e09f8cb1e28.png).
  
- ### Bonus-αντικείμενα
+### Bonus-αντικείμενα
  * Προσθήκη QuestionBox το οποίο αμα το χτύπησει ο παίκτης απο την κάτω μεριά βγαίνει μανιτάρι το οποίο δίνει μια ζωή στον παίκτη και του αυξάνει το score
 ![questionblock-0](https://user-images.githubusercontent.com/22703561/33657111-ec4129e6-da80-11e7-8dc8-31c2b29d66b0.png)
 ![1upmushroom](https://user-images.githubusercontent.com/22703561/33657176-1fcac4de-da81-11e7-9c6f-14de0a84a6f6.png).
@@ -95,7 +95,7 @@
 ![menu1](https://user-images.githubusercontent.com/22703561/33543806-158f0d50-d8e1-11e7-95f7-c81dfc3aebf2.png)
   * 1) Μενού εχει διαθέσιμα δυο κουμπία το ενα είναι το mapstart το οποίο συνδέεται με την φόρτωση μιας τυχαίας πίστας απο τις διαθέσιμες, δεύτερη επιλογή είναι το levelSelect το οποίο ξεκινάει το LevelSelectState. 
   
- ## LevelSelect
+## LevelSelect
  
  ![lvlselection](https://user-images.githubusercontent.com/22703561/33653702-8cfeff26-da76-11e7-870d-d1043b096394.png)
  * 2)Μενου επιλογής πίστας,τα αστεράκια υποδηλώνουν την δυσκολία τις πίστας μας ,το λουκέτο δείχνει οτι είναι κλειδωμένη
