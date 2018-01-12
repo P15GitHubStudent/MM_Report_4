@@ -7,7 +7,11 @@
 ##  Σύνοψη
 Υλοποίησα ολα τα ζητούμενα των προηγούμενων παραδοτέον
 
-## Διαδικάσια υλοποίησης
+## Διαδικάσια ανάπτυξης
+Η συγγραφή και η εκτέλεση του κώδικα έγινε στον Visual Studio Code. Tα spritesheet τα βρήκα απο τα παρακάτω links : https://opengameart.org/content/kenney-16x16 , https://scratch.mit.edu/projects/49905542/, https://www.spriters-resource.com/snes/smarioworld/sheet/52777/.
+Βρήκα τους ηχους απο : https://scratch.mit.edu/projects/49905542/, https://freesound.org/.
+Τέλος οσο αφορά το Προγραμματιστικό κομμάτι πολλές φορές κατέφυγα σε sites σχετικά με τον προγραμματισμό τα οποία με βοήθησαν να μάθω
+αρκετά καινούργια πράγματα  η και  να διορθώσω τυχόν συντακτικά και λογικά λάθη χρήσιμα links : https://stackoverflow.com/, https://phaser.io/examples,http://www.html5gamedevs.com/.
 
 
 ## Επιλογή Εργαλείων
@@ -30,9 +34,9 @@
 ## PlayState
 
 ### Πίστες
-   1. Δημιουργία δύο πιστών
-   ![super_mario_map1](https://user-images.githubusercontent.com/22703561/34296978-0ad9a6f4-e71e-11e7-9a63-9ed1eadeaac9.png).
-   ![super_mario_map2](https://user-images.githubusercontent.com/22703561/34296979-0af81f08-e71e-11e7-801b-2e414837bc72.png).
+1. Δημιουργία δύο πιστών
+![super_mario_map1](https://user-images.githubusercontent.com/22703561/34296978-0ad9a6f4-e71e-11e7-9a63-9ed1eadeaac9.png).
+![super_mario_map2](https://user-images.githubusercontent.com/22703561/34296979-0af81f08-e71e-11e7-801b-2e414837bc72.png).
   Στις πίστες αυτές εγινε προσθήκη  layers Pipes,invisibleWalls,teleport,endOfLevel. Το πρώτο layer χρησιμοποίηθηκε ως layer για να   κρύψουμε το φυτό piranhas στον σωλήνα. InvisibleWalls εκει τοποθετούμε αόρατα αντικείμενα για να καταλαβαίνουν οι εχθροί οτι σε αυτό το σημείο θα πρέπει να αντιστρέψουν  τη φορά του διανύσματος της ταχύτητας τους. Teleport layer για να καταλαβαίνει σε ποια σημεία μπορεί να κάνει τηλεμεταφορά ο παίκτης. Τέλος εγινε προσθήκη μουσικής.
    
 ### Ηρωας
@@ -106,7 +110,8 @@
  (Σημείωση δεν εχει γίνει υλοποίση περισσότεων απο δυο πίστες). Τέλος το κουμπί go-back σηματοδοτεί την επιστροφή πίσω στη κατάσταση 
  του μενού.
  
-
+## Συμπεράσματα 
+Η παρών εργασία μου έδωσε την δυνατότητα να μάθω αρκετά πράγματα για την javascipt και την Phaser . Παρόλο που το τελικό αποτέλεσμα μπορεί να θέλει ακόμα αρκετή δουλεία, πιστεύω ότι έχω κάνει ένα καλό βήμα και ευελπιστώ να μάθω ακόμα περισσότερα.
 
 
 ## link αποθετηρίου κωδικα
@@ -120,3 +125,4 @@ https://opengameart.org/content/kenney-16x16
 https://scratch.mit.edu/projects/49905542/
 http://www.nesmaps.com/maps/SuperMarioBrothers/sprites/SuperMarioBrothersSprites.html
 https://www.spriters-resource.com/snes/smarioworld/sheet/52777/
+https://freesound.org/
