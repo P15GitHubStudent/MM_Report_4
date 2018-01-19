@@ -90,9 +90,10 @@
  ![teleportgif](https://user-images.githubusercontent.com/22703561/35149062-6bc4a634-fd1d-11e7-9f70-6807f8908982.gif)
  
 ### endofLevelAnimation
+ ![wongame](https://user-images.githubusercontent.com/22703561/35149198-de21ca86-fd1d-11e7-8e35-ff388284764d.gif)
+ ![wongame](https://user-images.githubusercontent.com/22703561/35149198-de21ca86-fd1d-11e7-8e35-ff388284764d.gif)
  με το πέρας τις πίστας ο παίκτης είναι αφθαρτος, παγωμένος(δεν μπορεί να κουνηθεί)εμφανίζεται η πριγκίπισσα  η οποία χαιρέτα τον ηρώα μας πλησιάζει προς το μέρος του το δίνει φιλάκι και κάνει fade την κάμερα μας και επιτρέπει την μετάβαση στο LoadNextLevelState.
- ![wongame](https://user-images.githubusercontent.com/22703561/35149198-de21ca86-fd1d-11e7-8e35-ff388284764d.gif)
- ![wongame](https://user-images.githubusercontent.com/22703561/35149198-de21ca86-fd1d-11e7-8e35-ff388284764d.gif)
+ 
 
 ### WonGame
    ![screenshot_2](https://user-images.githubusercontent.com/22703561/34299726-2d9d6054-e72d-11e7-838b-fe1da1f1b0c4.png)
