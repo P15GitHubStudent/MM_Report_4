@@ -126,14 +126,12 @@
  (Σημείωση δεν έχει γίνει υλοποίηση περισσότερων από δυο πίστες). Τέλος το κουμπί go-back σηματοδοτεί την επιστροφή πίσω στη κατάσταση 
  του μενού.
  
- ## Gameplay Πρώτης Πίστας
+## Gameplay Πρώτης Πίστας
  ![level1gameplay](https://user-images.githubusercontent.com/22703561/35154702-e3818596-fd33-11e7-9f95-b215df0f008c.gif)
  
  
  
- 
- 
- ## Gameplay Δεύτερης Πίστας
+## Gameplay Δεύτερης Πίστας
  ![level2gameplayh](https://user-images.githubusercontent.com/22703561/35154703-e3c23cf8-fd33-11e7-9d4f-30c2d7c1b90b.gif)
 
  
@@ -146,6 +144,7 @@ https://github.com/P15GitHubStudent/Super-Mario/tree/master
 ## link demo παιχνιδιού
 https://p15githubstudent.github.io/Super-Mario
 
+##Link Δεύτερης Πίστας
 
 ## Links πολυμεσικού περιεχομένου 
 https://opengameart.org/content/kenney-16x16
