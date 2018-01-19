@@ -69,17 +69,11 @@
 χτυπήσεις στο κεφάλι ούτε με φωτιά.ο παίκτης χάνει ζωή αμα πέσει πάνω του. Καταληλη στιγμή για να το αποφύγεις είναι οταν μπεί στο 
 σωλήνα , η οταν κατεβαίνει σιγα σιγά για να μπεί στον σωλήνα.
  sprietsheet pirana:![piranaplant](https://user-images.githubusercontent.com/22703561/33653633-53b103cc-da76-11e7-8cb3-b9ae8b4009f9.gif)![pipe](https://user-images.githubusercontent.com/22703561/34297761-b992ad36-e722-11e7-90ca-b08e7fd00814.png)
- 
- 
- 
- 
-
 4. Προειδοποιητική πινακίδα που ενημερώνει οτι σε αυτόν τον σωλήνα βρίσκεται piranha φυτό  
 ![plantwarning](https://user-images.githubusercontent.com/22703561/33543562-2bd6ff10-d8e0-11e7-8684-dbdc5f940555.png)
+5. Αλλαγή εμφάνισης κερμάτων![full coins](https://user-images.githubusercontent.com/22703561/34297993-03562816-e724-11e7-9fc9-1e09f8cb1e28.png).
 
-### Κέρματα
- Αλλαγή εμφάνισης κερμάτων![full coins](https://user-images.githubusercontent.com/22703561/34297993-03562816-e724-11e7-9fc9-1e09f8cb1e28.png).
- 
+
 ### Bonus-αντικείμενα
  * Προσθήκη QuestionBox το οποίο αμα το χτύπησει ο παίκτης απο την κάτω μεριά βγαίνει μανιτάρι το οποίο δίνει μια ζωή στον παίκτη και του αυξάνει το score
 ![questionblock-0](https://user-images.githubusercontent.com/22703561/33657111-ec4129e6-da80-11e7-8dc8-31c2b29d66b0.png)
