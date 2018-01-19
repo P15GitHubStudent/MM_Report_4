@@ -13,9 +13,7 @@
  2. https://stackoverflow.com/ 
  3. https://phaser.io/ 
  4. http://www.html5gamedevs.com/
-
-
-
+ 
 
 ## Επιλογή Εργαλείων
  1. IDE: Visual Studio Code
@@ -94,7 +92,6 @@
 ### endofLevelAnimation
  με το πέρας τις πίστας ο παίκτης είναι αφθαρτος, παγωμένος(δεν μπορεί να κουνηθεί)εμφανίζεται η πριγκίπισσα  η οποία χαιρέτα τον ηρώα μας πλησιάζει προς το μέρος του το δίνει φιλάκι και κάνει fade την κάμερα μας και επιτρέπει την μετάβαση στο LoadNextLevelState.
  ![wongame](https://user-images.githubusercontent.com/22703561/35149198-de21ca86-fd1d-11e7-8e35-ff388284764d.gif)
- 
  ![wongame](https://user-images.githubusercontent.com/22703561/35149198-de21ca86-fd1d-11e7-8e35-ff388284764d.gif)
 
 ### WonGame
