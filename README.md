@@ -61,6 +61,10 @@
 χτυπήσεις στο κεφάλι ούτε με φωτιά.ο παίκτης χάνει ζωή αμα πέσει πάνω του. Καταληλη στιγμή για να το αποφύγεις είναι οταν μπεί στο 
 σωλήνα , η οταν κατεβαίνει σιγα σιγά για να μπεί στον σωλήνα.
  sprietsheet pirana:![piranaplant](https://user-images.githubusercontent.com/22703561/33653633-53b103cc-da76-11e7-8cb3-b9ae8b4009f9.gif)![pipe](https://user-images.githubusercontent.com/22703561/34297761-b992ad36-e722-11e7-90ca-b08e7fd00814.png)
+ 
+ 
+ 
+ 
 
 4. Προειδοποιητική πινακίδα που ενημερώνει οτι σε αυτόν τον σωλήνα βρίσκεται piranha φυτό  
 ![plantwarning](https://user-images.githubusercontent.com/22703561/33543562-2bd6ff10-d8e0-11e7-8684-dbdc5f940555.png)
@@ -89,6 +93,17 @@
  
 ### endofLevelAnimation
  με το πέρας τις πίστας ο παίκτης είναι αφθαρτος, παγωμένος(δεν μπορεί να κουνηθεί)εμφανίζεται η πριγκίπισσα  η οποία χαιρέτα τον ηρώα μας πλησιάζει προς το μέρος του το δίνει φιλάκι και κάνει fade την κάμερα μας και επιτρέπει την μετάβαση στο LoadNextLevelState.
+ 
+ Solarized dark             |  Solarized Ocean
+:-------------------------:|:-------------------------:
+![wongame](https://user-images.githubusercontent.com/22703561/35149198-de21ca86-fd1d-11e7-8e35-ff388284764d.gif)  |  ![wongame](https://user-images.githubusercontent.com/22703561/35149198-de21ca86-fd1d-11e7-8e35-ff388284764d.gif)
+ 
+ 
+ 
+ 
+ 
+ 
+ ![wongame](https://user-images.githubusercontent.com/22703561/35149198-de21ca86-fd1d-11e7-8e35-ff388284764d.gif)
  ![wongame](https://user-images.githubusercontent.com/22703561/35149198-de21ca86-fd1d-11e7-8e35-ff388284764d.gif)
 
 ### WonGame
