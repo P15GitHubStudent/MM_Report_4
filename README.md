@@ -129,6 +129,10 @@
  ## Gameplay Πρώτης Πίστας
  ![level1gameplay](https://user-images.githubusercontent.com/22703561/35154702-e3818596-fd33-11e7-9f95-b215df0f008c.gif)
  
+ 
+ 
+ 
+ 
  ## Gameplay Δεύτερης Πίστας
  ![level2gameplayh](https://user-images.githubusercontent.com/22703561/35154703-e3c23cf8-fd33-11e7-9d4f-30c2d7c1b90b.gif)
 
