@@ -144,7 +144,8 @@ https://github.com/P15GitHubStudent/Super-Mario/tree/master
 ## link demo παιχνιδιού
 https://p15githubstudent.github.io/Super-Mario
 
-##Link Δεύτερης Πίστας
+## Link Δεύτερης Πίστας(pull request merged)
+https://github.com/ioniodi/Super-Mario/pull/116 
 
 ## Links πολυμεσικού περιεχομένου 
 https://opengameart.org/content/kenney-16x16
